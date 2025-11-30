@@ -59,3 +59,4 @@ if (firstSign.Equals(secondSign, StringComparison.OrdinalIgnoreCase))
 //     Console.WriteLine("Player 1 won!!");
 // }
 // else
+//change time baby!!!

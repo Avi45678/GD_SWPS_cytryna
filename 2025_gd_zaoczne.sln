@@ -9,9 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cytryna", "cytryna\cytryna.csproj", "{664580AA-7D35-4959-BECB-35F332CA9FB8}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aaaaaaaaaaa1", "aaaaaaaaaaa1", "{81D16A02-9C82-2C3E-5EAA-F23052EC9998}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cytryna2", "aaaaaaaaaaa1\cytryna2\cytryna2.csproj", "{1BDB8378-E934-42B0-A301-27BCACFAC7DE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cytryna2", "cytryna2\cytryna2.csproj", "{1BDB8378-E934-42B0-A301-27BCACFAC7DE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -74,8 +72,5 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(NestedProjects) = preSolution
-		{1BDB8378-E934-42B0-A301-27BCACFAC7DE} = {81D16A02-9C82-2C3E-5EAA-F23052EC9998}
 	EndGlobalSection
 EndGlobal
